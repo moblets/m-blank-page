@@ -1,0 +1,17 @@
+{
+  "moblet": {
+    "label": "Blank Page",
+    "hint": "Blank Page",
+    "description": "Build your own page"
+  },
+  "title": {
+    "label": "Title",
+    "hint": "Page title",
+    "placeholder": "My title"
+  },
+  "body": {
+    "label": "Content",
+    "hint": "Page content",
+    "placeholder": "Page content"
+  }
+}

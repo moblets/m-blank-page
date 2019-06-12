@@ -1,0 +1,17 @@
+{
+  "moblet": {
+    "label": "Página em branco",
+    "hint": "Página em branco",
+    "description": "Construa a sua própria página"
+  },
+  "title": {
+    "label": "Título",
+    "hint": "Título da página",
+    "placeholder": "Meu título"
+  },
+  "body": {
+    "label": "Conteúdo",
+    "hint": "Conteúdo da página",
+    "placeholder": "Meu conteúdo"
+  }
+}
