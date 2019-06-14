@@ -1,12 +1,6 @@
 {
   "fields": [
     {
-      "name": "title",
-      "type": "text",
-      "minlength": 1,
-      "maxlength": 50
-    },
-    {
       "name": "body",
       "type": "rich-text",
       "required": true,
