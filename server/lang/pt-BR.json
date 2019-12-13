@@ -2,7 +2,8 @@
   "moblet": {
     "label": "Página em Branco",
     "hint": "Página em Branco",
-    "description": "Construa a sua própria página"
+    "description": "Construa a sua própria página",
+    "tutorial_link": "https://suporte.fabricadeaplicativos.com.br/hc/pt-br/articles/360026608152-Usando-o-HTML-no-seu-app"
   },
   "body": {
     "label": "Conteúdo",
