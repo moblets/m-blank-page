@@ -2,7 +2,8 @@
   "moblet": {
     "label": "Página en Blanco",
     "hint": "Página en Blanco",
-    "description": "Construya su propia página"
+    "description": "Construya su propia página",
+    "version": 2
   },
   "body": {
     "label": "Contenido",

@@ -2,9 +2,13 @@
   "fields": [
     {
       "name": "body",
-      "type": "rich-text",
+      "type": "richtext",
       "required": true,
-      "minlength": 3
+      "minlength": 3,
+      "validations": [
+        { "name": "required" },
+        { "name": "minLength", "value": 1 }
+      ]
     }
   ]
 }

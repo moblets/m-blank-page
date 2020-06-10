@@ -2,7 +2,8 @@
   "moblet": {
     "label": "Blank Page",
     "hint": "Blank Page",
-    "description": "Build your own page"
+    "description": "Build your own page",
+    "version": 2
   },
   "body": {
     "label": "Content",
