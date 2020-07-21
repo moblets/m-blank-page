@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {
+      "name": "body",
+      "type": "rich-text",
+      "required": true,
+      "minlength": 3
+    }
+  ]
+}
